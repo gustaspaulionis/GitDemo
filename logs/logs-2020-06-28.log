@@ -1,0 +1,8 @@
+18:20:20.979 [main] INFO  academy.Base - HomePage url is opened
+18:20:22.958 [main] INFO  academy.Base - Restricted user
+18:20:26.378 [main] INFO  academy.Base - Driver is initialized
+18:20:28.332 [main] INFO  academy.Base - HomePage url is opened
+18:20:30.216 [main] INFO  academy.Base - Non-restricted user
+18:20:40.885 [main] INFO  academy.Base - Validated a text message
+18:38:35.282 [main] INFO  academy.Base - Driver is initialized
+18:38:37.292 [main] INFO  academy.Base - HomePage url is opened

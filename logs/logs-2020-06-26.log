@@ -1,0 +1,9 @@
+17:16:56.922 [main] INFO  academy.Base - Restricted user
+17:17:00.049 [main] INFO  academy.Base - Driver is initialized
+17:17:02.000 [main] INFO  academy.Base - HomePage url is opened
+17:17:03.969 [main] INFO  academy.Base - Non-restricted user
+17:19:39.215 [main] INFO  academy.Base - Driver is initialized
+17:19:41.222 [main] INFO  academy.Base - HomePage url is opened
+17:19:43.202 [main] INFO  academy.Base - Restricted user
+17:19:46.676 [main] INFO  academy.Base - Driver is initialized
+17:19:48.644 [main] INFO  academy.Base - HomePage url is opened
